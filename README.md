@@ -4,7 +4,7 @@ Epiladder is a simple ladder use to rank the Epitech students.
 
 ## Requirements ##
 
- * Worked with Python 3 - Python3.4
+ * Worked with Python 3 - Python 3.4
  * [PyCurl](http://pycurl.sourceforge.net/) for http request
 
 ## Install
@@ -17,10 +17,10 @@ Epiladder is a simple ladder use to rank the Epitech students.
 
 ##### Input file
 
-Make a list with all the names of the students that you want to rank.
+Make a list with the names of the students that you want to rank.
 Some default list are already available in the Config folder.
 
-The expected format is as follow:
+The expected format is:
 
     login_x
     login2_x

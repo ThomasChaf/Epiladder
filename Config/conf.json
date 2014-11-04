@@ -1,0 +1,67 @@
+{
+  "login" : "LOGIN",
+  "password" : "PASSWORD",
+  "projets" : {
+    "B1 - Igraph" : [
+      "fdf",
+      "Wolf3D"
+    ],
+    "B1 - Systeme Unix" : [
+      "Printf",
+      "MyLs",
+      "Minishell1",
+      "MySelect"
+    ],
+    "B1 - C - Prog Elem" : [
+      "Bistromathique",
+      "GetNextLine",
+      "BSQ",
+      "PushSwap"
+    ],
+    "B2 - Elementary programming in C" : [
+      "Alum-1",
+      "Soutenance Corewar",
+      "Soutenance Lem-in"
+    ],
+    "B2 - Graphic Programming" : [
+      "RT-V1",
+      "Soutenance Finale du Raytracer"
+    ],
+    "B2 - Unix System programming" : [
+      "MiniShell 2",
+      "Minitalk",
+      "Soutenance 42Sh"
+    ],
+    "B4 - Unix System Programming" : [
+      "soutenance malloc",
+      "soutenance my_script",
+      "soutenance my_nm \/ my_objdump",
+      "soutenance philosophes",
+      "soutenance lemipc",
+      "soutenance my_ftp",
+      "soutenance my_irc",
+      "soutenance zappy"
+    ],
+    "B4 - C++ Programming" : [
+      "[C++][SOUTENANCE] 1\/4 - Abstract VM",
+      "[C++][SOUTENANCE] 2\/4 - Nibbler",
+      "[C++][SOUTENANCE] 3\/4 - The Plazza",
+      "[C++][SOUTENANCE] 4\/4 - Bomberman"
+    ],
+    "B4 - Elementary Programming - Special Project" : [
+      "Soutenance de Trade"
+    ],
+    "B4 - Functional programming" : [
+      "[OCAML][SOUTENANCE] 1\/3 - Mylist",
+      "[OCAML][SOUTENANCE] 2\/3 - Bistro Reloaded",
+      "[OCAML][SOUTENANCE] 3\/3 - A-maze-ing"
+    ],
+    "B4 - Advanced Unix System Programming" : [
+      "strace",
+      "ftrace"
+    ],
+    "B4 - Assembly x86_64" : [
+      "B4 - Assembly x86_64"
+    ]
+  }
+}
