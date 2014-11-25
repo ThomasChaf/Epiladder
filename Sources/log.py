@@ -8,9 +8,9 @@
 # ******************************************************************************
 
 class Log:
-  NO_GPA          = "No GPA founded"
-  NO_MOYENNE      = "No Moyenne founded"
-  REQUEST_FAIL    = "Request failed"
+    NO_GPA          = "No GPA founded"
+    NO_MOYENNE      = "No Moyenne founded"
+    REQUEST_FAIL    = "Request failed"
 
     def __init__(self, verbose):
         self.verbose = verbose

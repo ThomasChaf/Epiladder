@@ -9,7 +9,7 @@
 import sys
 
 class Option:
-  VERBOSE = "--verbose"
+    VERBOSE = "--verbose"
 
     def __init__(self):
         self.output = 1
